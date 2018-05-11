@@ -7,6 +7,12 @@
     <groupId>com.example</groupId>
     <artifactId>parent</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
+    <modules>
+        <!--<module>../manage</module>-->
+        <!--<module>../db</module>-->
+        <module>../ueditorext</module>
+    </modules>
 
 </project>
